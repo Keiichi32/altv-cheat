@@ -1,8 +1,8 @@
-# altv-cheat
+# altv-cheat [DISCONTINUED - This repository could serve as a hacking concept in the future]
 
 Multihack for alt:V Multiplayer.
 
-## Download
+## Download [OUTDATED]
 Compiled DLL: https://www.unknowncheats.me/forum/grand-theft-auto-v/415778-alt-script-executor-dumper.html
 
 ## Features
